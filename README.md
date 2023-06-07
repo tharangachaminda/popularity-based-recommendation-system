@@ -1,6 +1,6 @@
 # Recommendation System (Popularity Based)
 
-In this python project, I am trying to build a movie recommendation system using *viewer ratings* and *view count*.
+In this Python project, I am trying to build a movie recommendation system using *viewer ratings* and *view count*.
 
 - I will use two different *csv* files and merge them together to build a single *DataFrame*
 - Then Perform *grouping*, *sorting* and rebuilding a separate dataset including
